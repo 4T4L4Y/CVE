@@ -21,12 +21,16 @@ Welcome to my security research and vulnerability disclosure portfolio. This rep
 
 ### [CVE-2024-5619] PruvaSoft Apinizer - Insecure Direct Object Reference (IDOR)
 **Overview:** Identified an Authorization Bypass vulnerability caused by the insecure handling of user-controlled keys, specifically project ID values.
+
 **Technical Detail:** The application did not sufficiently verify if the user requesting a project download had the correct permissions for that specific `Project ID`. By intercepting the HTTP request and manipulating the ID parameter, authorization checks could be completely bypassed.
+
 **Impact:** An attacker could systematically iterate through project IDs to forcefully download arbitrary project files and configurations belonging to other users or organizations, leading to a massive exposure of sensitive data and source code.
 
 ### [CVE-2024-5620] PruvaSoft Apinizer - Improper Access Control on Registration Endpoint
 **Overview:** Discovered a business logic and access control flaw where backend API endpoints were not properly synchronized with frontend security configurations.
+
 **Technical Detail:** Although the user registration feature was explicitly disabled and hidden on the application's frontend UI, the underlying backend registration API endpoint remained active and lacked proper authorization checks. 
+
 **Impact:** An attacker could craft and send direct POST requests to the hidden API endpoint to successfully register a new user account. This allowed unauthorized threat actors to provision themselves valid credentials and gain unwarranted initial access to the internal system environment.
 
 ## 📬 Contact
