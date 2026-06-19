@@ -2,7 +2,7 @@
 
 Güvenlik araştırmalarım ve zafiyet ifşalarımı içeren portfolyoma hoş geldiniz. Bu depo, çeşitli ürünlerde ve platformlarda keşfettiğim, doğrulanmış Ortak Zafiyetler ve Açıklar (CVE) kayıtlarını barındırmaktadır.
 
-- ## Yayınlanmış CVE Kayıtları
+-## Yayınlanmış CVE Kayıtları
 
 | CVE ID | Üretici / Ürün | Zafiyet Türü | CVSS Skoru | Seviye | Resmi Kaynak |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -10,7 +10,7 @@ Güvenlik araştırmalarım ve zafiyet ifşalarımı içeren portfolyoma hoş ge
 | **CVE-2024-5619** | PruvaSoft Informatics Apinizer Management Console | Kullanıcı Kontrollü Anahtar Üzerinden Yetkilendirme Atlatma | 9.6 | ![Critical](https://img.shields.io/badge/-Critical-red) | [NVD Link](https://nvd.nist.gov/vuln/detail/CVE-2024-5619) / [CVE.ORG](https://www.cve.org/CVERecord?id=CVE-2024-5619) |
 | **CVE-2024-5620** | PruvaSoft Informatics Apinizer Management Console | Kimlik Doğrulama Atlatma | 6.5 | ![Medium](https://img.shields.io/badge/-Medium-yellow) | [NVD Link](https://nvd.nist.gov/vuln/detail/CVE-2024-5620) / [CVE.ORG](https://www.cve.org/CVERecord?id=CVE-2024-5620)|
 
-- ## Zafiyet Detayları ve Teknik Özetler
+-## Zafiyet Detayları ve Teknik Özetler
 
 ### [CVE-2025-5997] Beamsec PhishPro - Hak Yükseltme ve Bilgi İfşası
 **Genel Bakış:** Uygulamanın kullanıcı yönetimi işlevlerinde veya API uç noktalarında kritik bir erişim kontrolü hatası tespit edilmiştir. 
@@ -33,5 +33,5 @@ Güvenlik araştırmalarım ve zafiyet ifşalarımı içeren portfolyoma hoş ge
 
 **Etki:** Bir saldırgan, gizli API uç noktasına doğrudan POST istekleri oluşturup göndererek başarıyla yeni bir kullanıcı hesabı açabilmektedir. Bu durum, yetkisiz tehdit aktörlerinin kendilerine geçerli kimlik bilgileri sağlamasına ve iç sistem ortamına haksız bir ilk erişim (initial access) elde etmesine olanak tanımıştır.
 
-- ## İletişim
+-## İletişim
 **LinkedIn:** [linkedin.com/in/musatalayy](https://linkedin.com/in/musatalayy)
