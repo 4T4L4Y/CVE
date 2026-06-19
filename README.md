@@ -31,4 +31,4 @@
 
 ## Contact
 - **LinkedIn:** [linkedin.com/in/musatalayy](https://linkedin.com/in/musatalayy)
-- **Mail** [musa.atalayy@outlook.com]
+- **Mail** musa.atalayy@outlook.com
