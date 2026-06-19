@@ -31,4 +31,4 @@
 
 ## 📬 İletişim
 - **LinkedIn:** [linkedin.com/in/musatalayy](https://linkedin.com/in/musatalayy)
-- **E-Posta:** [musa.atalayy@outlook.com]
+- **E-Posta:** musa.atalayy@outlook.com
