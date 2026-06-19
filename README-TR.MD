@@ -34,5 +34,5 @@ Güvenlik araştırmalarım ve zafiyet ifşalarımı içeren portfolyoma hoş ge
 **Etki:** Bir saldırgan, gizli API uç noktasına doğrudan POST istekleri oluşturup göndererek başarıyla yeni bir kullanıcı hesabı açabilmektedir. Bu durum, yetkisiz tehdit aktörlerinin kendilerine geçerli kimlik bilgileri sağlamasına ve iç sistem ortamına haksız bir ilk erişim (initial access) elde etmesine olanak tanımıştır.
 
 ## 📬 İletişim
-**LinkedIn:** [linkedin.com/in/musatalayy](https://linkedin.com/in/musatalayy)
-**E-Posta:** [musa.atalayy@outlook.com]
+- **LinkedIn:** [linkedin.com/in/musatalayy](https://linkedin.com/in/musatalayy)
+- **E-Posta:** [musa.atalayy@outlook.com]
