@@ -14,7 +14,9 @@ Welcome to my security research and vulnerability disclosure portfolio. This rep
 
 ### [CVE-2025-5997] Beamsec PhishPro - Privilege Escalation & Information Disclosure
 **Overview:** Discovered a critical access control flaw within the application's user management functionality or API endpoints. 
+
 **Technical Detail:** The system failed to properly validate authorization levels when requesting user data. An attacker authenticated with standard, low-level user privileges could exploit this vulnerability to query and access the sensitive data of other users. 
+
 **Impact:** This flaw allowed unauthorized access to the password information of any user on the system, including administrative accounts. It presents a severe risk of complete system compromise through vertical privilege escalation.
 
 ### [CVE-2024-5619] PruvaSoft Apinizer - Insecure Direct Object Reference (IDOR)
