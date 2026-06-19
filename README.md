@@ -6,10 +6,9 @@ Welcome to my security research and vulnerability disclosure portfolio. This rep
 
 | CVE ID | Vendor / Product | Vulnerability Type | CVSS Score | Severity | Official Reference |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **CVE-2026-XXXX** | Örnek Yazılım A.Ş. | Broken Authentication / JWT Bypass | 8.1 | High | [NVD Link](https://nvd.nist.gov/) / [MITRE](https://cve.mitre.org/) |
-| **CVE-2025-XXXX** | Örnek Sistem | Remote Code Execution (RCE) | 9.8 | Critical | [NVD Link](https://nvd.nist.gov/) |
-| **CVE-2025-YYYY** | Vendor Name | Information Disclosure | 5.3 | Medium | [MITRE Link](https://cve.mitre.org/) |
-| **CVE-2024-ZZZZ** | ... | ... | ... | ... | ... |
+| **CVE-2025-5997** | Örnek Yazılım A.Ş. | Incorrect Use of Privileged APIs | 8.8 | High | [NVD Link](https://nvd.nist.gov/vuln/detail/CVE-2025-5997) / [CVE](https://www.cve.org/CVERecord?id=CVE-2025-5997) |
+| **CVE-2024-5619** | Örnek Sistem | Remote Code Execution (RCE) | 9.8 | Critical | [NVD Link](https://nvd.nist.gov/) |
+| **CVE-2024-5620** | Vendor Name | Information Disclosure | 5.3 | Medium | [MITRE Link](https://cve.mitre.org/) |
 
 *(Not: Tablodaki örnek satırları kendi 7 CVE kaydınıza göre çoğaltıp düzenleyebilirsiniz.)*
 
