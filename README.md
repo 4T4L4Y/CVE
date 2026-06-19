@@ -35,3 +35,4 @@ Welcome to my security research and vulnerability disclosure portfolio. This rep
 
 ## 📬 Contact
 - **LinkedIn:** [linkedin.com/in/musatalayy](https://linkedin.com/in/musatalayy)
+- **Mail** [musa.atalayy@outlook.com]
